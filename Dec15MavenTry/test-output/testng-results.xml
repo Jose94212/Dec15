@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2018-12-15T19:43:45Z" name="Default suite" finished-at="2018-12-15T19:43:53Z" duration-ms="7941">
+  <suite started-at="2018-12-15T19:57:57Z" name="Default suite" finished-at="2018-12-15T19:58:06Z" duration-ms="9010">
     <groups>
     </groups>
-    <test started-at="2018-12-15T19:43:45Z" name="Default test" finished-at="2018-12-15T19:43:53Z" duration-ms="7941">
+    <test started-at="2018-12-15T19:57:57Z" name="Default test" finished-at="2018-12-15T19:58:06Z" duration-ms="9010">
       <class name="testClass">
-        <test-method signature="testSeleniumDriver()[pri:0, instance:testClass@6a2f6f80]" started-at="2018-12-16T01:13:45Z" name="testSeleniumDriver" finished-at="2018-12-16T01:13:53Z" duration-ms="7907" status="PASS">
+        <test-method signature="testSeleniumDriver()[pri:0, instance:testClass@611889f4]" started-at="2018-12-16T01:27:57Z" name="testSeleniumDriver" finished-at="2018-12-16T01:28:06Z" duration-ms="8981" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testSeleniumDriver -->
-        <test-method signature="testmethod()[pri:0, instance:testClass@6a2f6f80]" started-at="2018-12-16T01:13:53Z" name="testmethod" finished-at="2018-12-16T01:13:53Z" duration-ms="1" status="PASS">
+        <test-method signature="testmethod()[pri:0, instance:testClass@611889f4]" started-at="2018-12-16T01:28:06Z" name="testmethod" finished-at="2018-12-16T01:28:06Z" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testmethod -->
-        <test-method signature="testmethod2()[pri:0, instance:testClass@6a2f6f80]" started-at="2018-12-16T01:13:53Z" name="testmethod2" finished-at="2018-12-16T01:13:53Z" duration-ms="1" status="PASS">
+        <test-method signature="testmethod2()[pri:0, instance:testClass@611889f4]" started-at="2018-12-16T01:28:06Z" name="testmethod2" finished-at="2018-12-16T01:28:06Z" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testmethod2 -->
