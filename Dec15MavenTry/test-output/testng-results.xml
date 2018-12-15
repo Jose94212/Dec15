@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2018-12-15T19:13:08Z" name="Default suite" finished-at="2018-12-15T19:13:08Z" duration-ms="42">
+  <suite started-at="2018-12-15T19:43:45Z" name="Default suite" finished-at="2018-12-15T19:43:53Z" duration-ms="7941">
     <groups>
     </groups>
-    <test started-at="2018-12-15T19:13:08Z" name="Default test" finished-at="2018-12-15T19:13:08Z" duration-ms="42">
+    <test started-at="2018-12-15T19:43:45Z" name="Default test" finished-at="2018-12-15T19:43:53Z" duration-ms="7941">
       <class name="testClass">
-        <test-method signature="testmethod()[pri:0, instance:testClass@3d34d211]" started-at="2018-12-15T19:13:08Z" name="testmethod" finished-at="2018-12-15T19:13:08Z" duration-ms="15" status="PASS">
+        <test-method signature="testSeleniumDriver()[pri:0, instance:testClass@6a2f6f80]" started-at="2018-12-16T01:13:45Z" name="testSeleniumDriver" finished-at="2018-12-16T01:13:53Z" duration-ms="7907" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSeleniumDriver -->
+        <test-method signature="testmethod()[pri:0, instance:testClass@6a2f6f80]" started-at="2018-12-16T01:13:53Z" name="testmethod" finished-at="2018-12-16T01:13:53Z" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testmethod -->
+        <test-method signature="testmethod2()[pri:0, instance:testClass@6a2f6f80]" started-at="2018-12-16T01:13:53Z" name="testmethod2" finished-at="2018-12-16T01:13:53Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testmethod2 -->
       </class> <!-- testClass -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
