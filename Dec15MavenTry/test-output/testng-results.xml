@@ -2,20 +2,24 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2018-12-15T19:57:57Z" name="Default suite" finished-at="2018-12-15T19:58:06Z" duration-ms="9010">
+  <suite started-at="2018-12-16T09:57:31Z" name="Default suite" finished-at="2018-12-16T09:57:39Z" duration-ms="7991">
     <groups>
     </groups>
-    <test started-at="2018-12-15T19:57:57Z" name="Default test" finished-at="2018-12-15T19:58:06Z" duration-ms="9010">
+    <test started-at="2018-12-16T09:57:31Z" name="Default test" finished-at="2018-12-16T09:57:39Z" duration-ms="7991">
       <class name="testClass">
-        <test-method signature="testSeleniumDriver()[pri:0, instance:testClass@611889f4]" started-at="2018-12-16T01:27:57Z" name="testSeleniumDriver" finished-at="2018-12-16T01:28:06Z" duration-ms="8981" status="PASS">
+        <test-method is-config="true" signature="initialize()[pri:0, instance:testClass@2c35e847]" started-at="2018-12-16T15:27:31Z" name="initialize" finished-at="2018-12-16T15:27:31Z" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method signature="testSeleniumDriver()[pri:0, instance:testClass@2c35e847]" started-at="2018-12-16T15:27:31Z" name="testSeleniumDriver" finished-at="2018-12-16T15:27:39Z" duration-ms="7941" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testSeleniumDriver -->
-        <test-method signature="testmethod()[pri:0, instance:testClass@611889f4]" started-at="2018-12-16T01:28:06Z" name="testmethod" finished-at="2018-12-16T01:28:06Z" duration-ms="2" status="PASS">
+        <test-method signature="testmethod()[pri:0, instance:testClass@2c35e847]" started-at="2018-12-16T15:27:39Z" name="testmethod" finished-at="2018-12-16T15:27:39Z" duration-ms="3" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testmethod -->
-        <test-method signature="testmethod2()[pri:0, instance:testClass@611889f4]" started-at="2018-12-16T01:28:06Z" name="testmethod2" finished-at="2018-12-16T01:28:06Z" duration-ms="1" status="PASS">
+        <test-method signature="testmethod2()[pri:0, instance:testClass@2c35e847]" started-at="2018-12-16T15:27:39Z" name="testmethod2" finished-at="2018-12-16T15:27:39Z" duration-ms="3" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testmethod2 -->
